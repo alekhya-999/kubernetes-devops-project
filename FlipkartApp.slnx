@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="FlipkartApp.business/FlipkartApp.business.csproj" />
+  <Project Path="FlipkartApp.data/FlipkartApp.data.csproj" />
+  <Project Path="FlipkartApp.web/FlipkartApp.web.csproj" />
+</Solution>
